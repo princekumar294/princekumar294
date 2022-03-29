@@ -2,7 +2,7 @@
 <img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="20%" height="05%">
 </p>
 <p align='center'>
-  <img  src="https://github.com/princekumar294/princekumar294/tree/main/gifs/Developer.gif" alt="Developer gif">
+  <img  src="https://github.com/princekumar294/princekumar294/blob/0d7b094e00bbd87e87931db662dea55b170bd7c2/gifs/Developer.gif" alt="Developer gif">
 </p>
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">Working as Senior DevOps/Release Engineer, also my past Desginations are DevOps Engineer</h3>
